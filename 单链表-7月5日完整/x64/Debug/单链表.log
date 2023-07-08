@@ -1,4 +1,12 @@
-﻿  SList.cpp
+﻿  SList.h
+  SList.cpp
   Test.cpp
   正在生成代码...
-  单链表.vcxproj -> D:\github\单链表\x64\Debug\单链表.exe
+x64\Debug\SList.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SListPrint(struct SListNode *)" (?SListPrint@@YAXPEAUSListNode@@@Z)，函数 "void __cdecl TestSList1(void)" (?TestSList1@@YAXXZ) 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SListPushBack(struct SListNode * *,int)" (?SListPushBack@@YAXPEAPEAUSListNode@@H@Z)，函数 "void __cdecl TestSList1(void)" (?TestSList1@@YAXXZ) 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SListPushFront(struct SListNode * *,int)" (?SListPushFront@@YAXPEAPEAUSListNode@@H@Z)，函数 "void __cdecl TestSList1(void)" (?TestSList1@@YAXXZ) 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SListPopFront(struct SListNode * *)" (?SListPopFront@@YAXPEAPEAUSListNode@@@Z)，函数 "void __cdecl TestSList1(void)" (?TestSList1@@YAXXZ) 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 "struct SListNode * __cdecl SListFind(struct SListNode *,int)" (?SListFind@@YAPEAUSListNode@@PEAU1@H@Z)，函数 "void __cdecl TestSList2(void)" (?TestSList2@@YAXXZ) 中引用了该符号
+Test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SListInsert(struct SListNode * *,struct SListNode *,int)" (?SListInsert@@YAXPEAPEAUSListNode@@PEAU1@H@Z)，函数 "void __cdecl TestSList2(void)" (?TestSList2@@YAXXZ) 中引用了该符号
+D:\github\fist\数据结构\Data_structure\单链表-7月5日完整\x64\Debug\单链表.exe : fatal error LNK1120: 6 个无法解析的外部命令
