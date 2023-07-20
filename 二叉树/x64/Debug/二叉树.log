@@ -1,0 +1,14 @@
+﻿  Test.c
+D:\github\二叉树\Test.c(35,16): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(36,16): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(42,41): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(42,64): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(55,26): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(55,53): warning C4133: “函数”: 从“BTDataType *”到“BTNode *”的类型不兼容
+D:\github\二叉树\Test.c(77,22): warning C4133: “函数”: 从“BTDataType *”到“QDataType”的类型不兼容
+D:\github\二叉树\Test.c(81,23): warning C4133: “函数”: 从“BTDataType *”到“QDataType”的类型不兼容
+D:\github\二叉树\Test.c(119,10): warning C4133: “=”: 从“BTNode *”到“BTDataType *”的类型不兼容
+D:\github\二叉树\Test.c(120,11): warning C4133: “=”: 从“BTNode *”到“BTDataType *”的类型不兼容
+D:\github\二叉树\Test.c(121,10): warning C4133: “=”: 从“BTNode *”到“BTDataType *”的类型不兼容
+D:\github\二叉树\Test.c(122,11): warning C4133: “=”: 从“BTNode *”到“BTDataType *”的类型不兼容
+  二叉树.vcxproj -> D:\github\二叉树\x64\Debug\二叉树.exe
