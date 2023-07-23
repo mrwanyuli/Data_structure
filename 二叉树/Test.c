@@ -88,6 +88,18 @@ void LevelOrder(BTNode* root)
 }
 
 
+//¶þ²æÊ÷µÄÏú»Ù
+void DestoryTree(BTNode* root)
+{
+	if (root == NULL)
+		return;
+
+	DestoryTree(root->left);
+	DestoryTree(root->right);
+	
+	free(root);
+
+}
 
 int main()
 {
