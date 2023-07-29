@@ -1,0 +1,2 @@
+D:\github\sort\x64\Debug\sort.exe
+D:\github\sort-2\x64\Debug\sort.exe
