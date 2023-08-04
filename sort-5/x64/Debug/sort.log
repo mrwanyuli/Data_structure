@@ -1,0 +1,5 @@
+﻿  sort.c
+D:\github\sort-4\sort.c(345,24): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\github\sort-4\sort.c(345,18): warning C4024: “Swap”: 形参和实参 2 的类型不同
+D:\github\sort-4\sort.c(613,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sort.vcxproj -> D:\github\sort-4\x64\Debug\sort.exe
