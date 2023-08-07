@@ -1,0 +1,8 @@
+﻿  sort.c
+D:\github\sort-2\sort.c(247,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  3 of 8 functions (37.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sort.vcxproj -> D:\github\sort-2\x64\Release\sort.exe
