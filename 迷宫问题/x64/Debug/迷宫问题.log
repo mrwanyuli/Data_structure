@@ -1,0 +1,11 @@
+﻿  迷宫.c
+D:\github\迷宫问题\迷宫.c(192,26): error C2065: “path”: 未声明的标识符
+D:\github\迷宫问题\迷宫.c(192,21): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+D:\github\迷宫问题\迷宫.c(194,35): error C2065: “path”: 未声明的标识符
+D:\github\迷宫问题\迷宫.c(194,30): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+D:\github\迷宫问题\迷宫.c(195,17): error C2065: “path”: 未声明的标识符
+D:\github\迷宫问题\迷宫.c(195,12): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+D:\github\迷宫问题\迷宫.c(212,17): error C2065: “path”: 未声明的标识符
+D:\github\迷宫问题\迷宫.c(212,12): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+D:\github\迷宫问题\迷宫.c(259,16): error C2065: “path”: 未声明的标识符
+D:\github\迷宫问题\迷宫.c(259,11): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
